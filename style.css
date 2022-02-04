@@ -1,5 +1,33 @@
-html {
+* {
   border: 0;
   margin: 0;
   padding:0;
+  font-family: 'Kanit', sans-serif;
 }
+
+/** hero text and nav bar **/
+nav {
+  padding: 16px;
+  display: flex;
+  justify-content: space-evenly;
+  gap: 30px;
+  padding-left: 100px;
+  padding-right: 200px;
+}
+
+ul {
+  list-style: none;
+   
+}
+
+li {
+  padding-right: 60px;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+}
+
