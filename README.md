@@ -1,0 +1,1 @@
+This is my attempt at creating a portfolio site using what I know! I hope to learn some new skills while doing this as well!
